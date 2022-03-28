@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Undergraduate_ obsessed with **Chaos**,**Emergent complexity**, **Compliant mechanism** and **IOT**.
+
+Skills:-   **CAD**,**Programming**,**Scientific computing**
